@@ -33,5 +33,5 @@ typing-extensions==3.7.4
 Werkzeug==2.2.3
 wincertstore==0.2
 wrapt==1.11.2
-setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
 wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
